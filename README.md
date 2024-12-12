@@ -1,4 +1,4 @@
-# VAF.checker
+# $${{\color{lightgreen}VAF.checker}$$
 
 Welcome to the Variant Allele Freq. checker app.
 
