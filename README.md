@@ -2,6 +2,8 @@
 
 Welcome to the Variant Allele Freq. checker app.
 
+This piece of software allows for the filtering of genetic variants based on the FORMAT/AD tag.
+
 The following options are available:
 
 	-h, --help:	prints this help message.
